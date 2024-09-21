@@ -3,6 +3,7 @@
 .data
 
 .code    
+
     mov dl , 'I'     
     mov ah , 02h
     int 21h   
